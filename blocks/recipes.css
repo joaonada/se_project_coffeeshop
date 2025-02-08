@@ -1,0 +1,18 @@
+.recipes__title {
+  margin: 0 0 24px;
+}
+
+.recipes__subtitle {
+  margin: 0 0 80px;
+}
+
+.recipes__videos {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.recipes__video-caption {
+  display: flex;
+  justify-content: space-between;
+}
